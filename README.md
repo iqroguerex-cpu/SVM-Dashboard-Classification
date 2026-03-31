@@ -129,7 +129,6 @@ python svm_model.py
 ## 👨‍💻 Author
 
 **Chinmay V Chatradamath**
-🏢 IQROGUEREX
 
 ---
 
